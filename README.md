@@ -1,2 +1,2 @@
 # Good-Articles
-Collection of good programming articles that I found on the net
+Collection of good articles (mostly about programming) that I found on the net
