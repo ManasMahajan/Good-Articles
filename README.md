@@ -2,7 +2,7 @@
 Collection of good articles (mostly about programming) that I found on the net
 
 ## Contents
-[1. C++](https://github.com/ManasMahajan/Good-Articles/tree/master/Cpp)
+[1. C++](https://github.com/ManasMahajan/Good-Articles/blob/master/Cpp/cpp.md)
 
 [2. Programming](https://github.com/ManasMahajan/Good-Articles/tree/master/Programming)
 
