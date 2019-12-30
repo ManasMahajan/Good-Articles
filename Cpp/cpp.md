@@ -1,0 +1,6 @@
+1. [Header Files](https://www.learncpp.com/cpp-tutorial/19-header-files/)
+2. [Headers and includes: Why and how]()
+3. [How to use extern to share variables between source files](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+4. [Iterator invalidation](https://www.geeksforgeeks.org/iterator-invalidation-cpp/)
+5. [Lvalues_Rvalues](https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c)
+6. [The Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
