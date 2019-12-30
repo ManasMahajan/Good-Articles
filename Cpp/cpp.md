@@ -4,3 +4,4 @@
 4. [Iterator invalidation](https://www.geeksforgeeks.org/iterator-invalidation-cpp/)
 5. [Lvalues_Rvalues](https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c)
 6. [The Spiral Rule](http://c-faq.com/decl/spiral.anderson.html)
+7. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/cplusplus.html)
