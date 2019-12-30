@@ -1,1 +1,0 @@
-[Article](http://www.cplusplus.com/articles/Gw6AC542/)
