@@ -7,3 +7,4 @@
 7. [C++ Annotations](http://www.icce.rug.nl/documents/cplusplus/cplusplus.html)
 8. [What does auto&& tell us?](https://stackoverflow.com/questions/13230480/what-does-auto-tell-us)
 9. [C++ atuo& vs auto](https://stackoverflow.com/questions/29859796/c-auto-vs-auto)
+10. [auto-type-deduction-in-range-based-for-loops](https://blog.petrzemek.net/2016/08/17/auto-type-deduction-in-range-based-for-loops/)
